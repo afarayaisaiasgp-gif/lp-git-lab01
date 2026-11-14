@@ -1,7 +1,7 @@
 
 # Laboratorio 1 · Git y GitHub
 
-Repositorio de práctica del curso Lenguajes de Programación (UPN 2026-2).
+Repositorio de práctica del curso MOD. Y DESAR.DE APLICACIONES (UPN 2026-2).
 
 ## Cómo ejecutar
 
